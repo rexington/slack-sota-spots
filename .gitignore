@@ -1,0 +1,6 @@
+callsigns.txt
+backups/
+*.csv
+__pycache__/
+current.json
+hamalert-*.json
